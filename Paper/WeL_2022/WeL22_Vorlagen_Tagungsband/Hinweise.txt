@@ -1,0 +1,17 @@
+Allgemeine Hinweise zur Vorlage
+---------------------------------
+
+Diese Vorlage beinhaltet grundlegende Formate für die Erstellung der Tagungsbände zur Workshop on e-Learning 2022. Die Formate sind jeweils mit "- WeL-Formatname -" bezeichnet. Sonderfälle können natürlich durch eigene Formate bestimmt werden, die sich in Schriftbild und -größe in das Gesamtlayout eingliedern sollten.
+
+
+*** Bitte verwenden Sie die Formatierungen mit der Bezeichnung "WeL" ***
+
+
+Sie können zwischen einem Word-Dokument (DOCX) und einer Word-Dokumenten-Vorlage (DOTX) wählen (beide Dateien verfügen über eine identische Formatierung):
+- WeL22_Vorlage_Tagungsband.docx (Word-Dokument: ab Microsoft Office Word 2007 Format) 
+- WeL22_Vorlage_Tagungsband.dotx (Word-Dokumenten-Vorlage: ab Microsoft Office Word 2007 Vorlage)
+
+- WeL22_Vorlage_Tagungsband.pdf (vorgesehenes Layout für den Druck)
+
+
+Bei Fragen wenden Sie sich bitte per E-Mail an elearning@hszg.de oder telefonisch an (+49) 03581-374-3340 bzw. (+49) 03583-612-3340
